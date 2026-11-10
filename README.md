@@ -32,38 +32,6 @@ My interests cover both software engineering and infrastructure technologies, fr
 
 ---
 
-## 🚀 Featured Projects
-
-### 💻 Software Development
-
-**RemoteTeam** — Remote work management platform
-
-Vue 3 · TypeScript · FastAPI · PostgreSQL · Keycloak
-
-**Lumen Docs** — Collaborative document management platform
-
-Node.js · Express · Socket.IO · PeerJS · JWT · Etherpad
-
-**SenTrack** — Tracking and management application
-
-React · PostgreSQL · Redis · Vercel
-
-**DakarFast** — Smart traffic analysis and prediction application
-
-React Native · Python · FastAPI · SUMO · PostGIS
-
-### ☁️ Cloud & Infrastructure
-
-**Cloud Infrastructure Lab**
-
-Proxmox VE · Docker · Kubernetes · Terraform · Ansible · Linux
-
-**pfSense Documentation**
-
-Docusaurus · GitHub Pages · Networking · Firewall Administration
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend Development
