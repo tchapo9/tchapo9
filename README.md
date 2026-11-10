@@ -1,126 +1,109 @@
-# 👋 Salut, moi c'est Tchapo !
+# 👋 Hi, I'm Tchapo!
+
+<h3 align="center">
+  Software Developer | Cloud & DevOps Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cloud+%26+Infrastructure+Engineer;DevOps+%26+Automation+Enthusiast;Computer+Networks+%26+Cybersecurity;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Building+Web+%26+Mobile+Applications;Cloud+Infrastructure+%26+DevOps;Automation+%26+Cybersecurity" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Dakar%2C%20Senegal-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-22C55E?style=flat-square" />
+  📍 Dakar, Senegal 🇸🇳
 </p>
 
 ---
 
-## 🚀 À propos de moi
+## 👨‍💻 About Me
 
-Je suis passionné par les infrastructures informatiques, le Cloud Computing, les réseaux, la cybersécurité et le développement logiciel.
+I'm a software developer passionate about building applications, designing APIs, and creating reliable IT infrastructures.
 
-🎓 Formation en Réseaux & Télécommunications, spécialisation **Cybersécurité & DevOps** — EC2LT, Dakar.
+My interests cover both software engineering and infrastructure technologies, from application development to cloud deployment and automation.
 
-💻 J'aime concevoir, déployer et automatiser des infrastructures, développer des applications et expérimenter avec les technologies modernes.
+🎓 Background in Computer Networks & Telecommunications, specializing in Cybersecurity & DevOps.
 
-**Ce qui m'intéresse particulièrement :**
-- ☁️ Cloud Computing & Infrastructure as Code
-- 🐳 Conteneurisation et orchestration
-- 🔐 Administration systèmes et cybersécurité
-- 🌐 Réseaux, virtualisation et télécommunications
-- ⚙️ CI/CD, automatisation et développement logiciel
-
----
-
-## 🔭 Projets en cours et réalisations
-
-### ☁️ Cloud Infrastructure Lab
-Laboratoire personnel dédié à la conception et à l'administration d'infrastructures virtualisées et automatisées.
-
-- Proxmox VE, Ceph et PBS
-- Docker & Kubernetes
-- Terraform & Ansible
-- Linux, Nginx et automatisation
-- Prometheus, Grafana et outils de supervision
-
-### 👥 RemoteTeam
-Plateforme de gestion et de suivi du travail à distance, avec une approche basée sur les activités réelles des équipes.
-
-- Frontend : Vue 3 & TypeScript
-- Backend : FastAPI
-- Base de données : PostgreSQL
-- Authentification : Keycloak
-- Intégrations : GitHub / GitLab
-
-### 🚦 DakarFast
-Application mobile de prédiction et d'analyse du trafic routier à Dakar.
-
-- React Native
-- Python & FastAPI
-- SUMO, TraCI & NetworkX
-- PostgreSQL / PostGIS
-
-### 📚 Lumen Docs
-Plateforme collaborative de gestion documentaire avec édition collaborative en temps réel.
-
-- Node.js & Express
-- Socket.IO & PeerJS
-- JWT et gestion des permissions
-- Etherpad & Nginx
-
-### 📊 SenTrack
-Application de suivi et de gestion avec une architecture frontend/backend moderne.
-
-- Frontend : React
-- Backend : API
-- PostgreSQL (Neon)
-- Redis (Upstash)
-- Déploiement : Vercel
-
-### 🌐 pfSense Documentation
-Documentation technique autour de pfSense, des réseaux et de la configuration des infrastructures.
-
-- Docusaurus
-- GitHub Pages
-- Documentation technique
+**My main areas of interest:**
+- 💻 Full Stack Development
+- 🌐 Web & Mobile Applications
+- ⚙️ Backend Development & REST APIs
+- ☁️ Cloud Computing & DevOps
+- 🐳 Containerization & Automation
+- 🔐 Cybersecurity & Infrastructure
 
 ---
 
-## 🛠️ Technologies & outils
+## 🚀 Featured Projects
 
-### ☁️ Cloud, DevOps & Infrastructure
+### 💻 Software Development
+
+**RemoteTeam** — Remote work management platform
+
+Vue 3 · TypeScript · FastAPI · PostgreSQL · Keycloak
+
+**Lumen Docs** — Collaborative document management platform
+
+Node.js · Express · Socket.IO · PeerJS · JWT · Etherpad
+
+**SenTrack** — Tracking and management application
+
+React · PostgreSQL · Redis · Vercel
+
+**DakarFast** — Smart traffic analysis and prediction application
+
+React Native · Python · FastAPI · SUMO · PostGIS
+
+### ☁️ Cloud & Infrastructure
+
+**Cloud Infrastructure Lab**
+
+Proxmox VE · Docker · Kubernetes · Terraform · Ansible · Linux
+
+**pfSense Documentation**
+
+Docusaurus · GitHub Pages · Networking · Firewall Administration
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,vite" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,nodejs,express,php,laravel" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Cloud, DevOps & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,linux,nginx,git,github,githubactions" />
 </p>
 
-### 🌐 Réseaux & Virtualisation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,debian,bash" />
-</p>
-
-`Proxmox VE` · `Ceph` · `pfSense` · `OpenStack` · `VLAN` · `VPN` · `NAT` · `DNS` · `DHCP`
-
-### 💻 Développement
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,js,ts,vue,react,angular,nodejs,fastapi,php,laravel,kotlin" />
-</p>
-
-### 🗄️ Bases de données
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
-</p>
-
-### 📈 Monitoring & Observabilité
-
-`Prometheus` · `Grafana` · `Zabbix` · `Uptime Kuma` · `Beszel`
+**Other technologies:** Proxmox VE · Ceph · OpenStack · pfSense · Prometheus · Grafana
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tchapo9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tchapo9&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchapo9&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -130,21 +113,17 @@ Documentation technique autour de pfSense, des réseaux et de la configuration d
 
 ---
 
-## 📫 Me retrouver
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/tchapo9">
-    <img src="https://img.shields.io/badge/GitHub-tchapo9-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  💡 <i>Learn. Build. Automate. Improve.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tchapo9&label=Profile%20views&color=0e75b6&style=flat" />
+  <i>Building software. Automating infrastructure. Solving problems.</i>
 </p>
