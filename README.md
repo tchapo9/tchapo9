@@ -100,16 +100,18 @@ Docusaurus · GitHub Pages · Networking · Firewall Administration
 
 ---
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tchapo9&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchapo9&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=tchapo9&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tchapo9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=tchapo9&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
